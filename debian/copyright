@@ -52,3 +52,8 @@ http://ftp-master.debian.org/~ajt/tiffani/tiffani:
 Copyright (C) 2004-5  Anthony Towns <aj@azure.humbug.org.au>
 Copyright (C) 2004-5  Andreas Barth <aba@not.so.argh.org>
 also under GPL as above.
+
+Some files under debian/ have been modified for packaging by
+the Scibian project:
+Copyright (C) 2017 Scibian Project <legal@scibian.org>
+also under the GPL as above
